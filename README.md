@@ -1,4 +1,6 @@
-﻿# Intersubband optics of the polar LaInO3/BaSnO3 two-dimensional electron gas: fragmented hybrid plasmons, phonon-limited lifetimes, intrinsic second-order nonlinearity and the limits of electrolyte gating
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444580.svg)](https://doi.org/10.5281/zenodo.23444580)
+
+# Intersubband optics of the polar LaInO3/BaSnO3 two-dimensional electron gas: fragmented hybrid plasmons, phonon-limited lifetimes, intrinsic second-order nonlinearity and the limits of electrolyte gating
 
 **Author:** Gracen Ownby (University of Oklahoma)  
 **Date:** October 2026  
