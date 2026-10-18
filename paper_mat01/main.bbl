@@ -1,0 +1,241 @@
+\begin{thebibliography}{32}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Niedermeier et~al.(2017)Niedermeier, Rhode, Ide, Hiramatsu, Hosono,
+  Kamiya, and Moram]{Niedermeier2017}
+C.~A. Niedermeier, S.~Rhode, K.~Ide, H.~Hiramatsu, H.~Hosono, T.~Kamiya, and
+  M.~A. Moram.
+\newblock Electron effective mass and mobility limits in degenerate perovskite
+  stannate {BaSnO$_3$}.
+\newblock \emph{Phys. Rev. B}, 95:\penalty0 161202(R), 2017.
+\newblock \doi{10.1103/PhysRevB.95.161202}.
+
+\bibitem[Aggoune et~al.(2022)Aggoune, Eljarrat, Nabok, Irmscher, Zupancic,
+  Galazka, Albrecht, Koch, and Draxl]{Aggoune2022}
+W.~Aggoune, A.~Eljarrat, D.~Nabok, K.~Irmscher, M.~Zupancic, Z.~Galazka,
+  M.~Albrecht, C.~Koch, and C.~Draxl.
+\newblock A consistent picture of excitations in cubic {BaSnO$_3$} revealed by
+  combining theory and experiment.
+\newblock \emph{Commun. Mater.}, 3:\penalty0 12, 2022.
+\newblock \doi{10.1038/s43246-022-00234-6}.
+
+\bibitem[Kim et~al.(2019)Kim, Markurt, Kim, Zupancic, Shin, Albrecht, and
+  Char]{Kim2019LIO}
+Y.~M. Kim, T.~Markurt, Y.~Kim, M.~Zupancic, J.~Shin, M.~Albrecht, and K.~Char.
+\newblock Interface polarization model for a 2-dimensional electron gas at the
+  {BaSnO$_3$/LaInO$_3$} interface.
+\newblock \emph{Sci. Rep.}, 9:\penalty0 16202, 2019.
+\newblock \doi{10.1038/s41598-019-52772-8}.
+
+\bibitem[Aggoune and Draxl(2021)]{Aggoune2021}
+W.~Aggoune and C.~Draxl.
+\newblock Tuning two-dimensional electron and hole gases at
+  {LaInO$_3$/BaSnO$_3$} interfaces by polar distortions, termination, and
+  thickness.
+\newblock \emph{npj Comput. Mater.}, 7:\penalty0 174, 2021.
+\newblock \doi{10.1038/s41524-021-00646-x}.
+
+\bibitem[Lee et~al.(2025)Lee, Cho, Park, Kim, Schlom, and Char]{Lee2024LIO}
+J.~Lee, H.~Cho, J.~Park, B.~Kim, D.~G. Schlom, and K.~Char.
+\newblock Observation of mobility above 2000 cm$^2$/v s in {2DEG} at
+  {LaInO$_3$/BaSnO$_3$} interface by electric-double-layer gating.
+\newblock \emph{Adv. Electron. Mater.}, 11\penalty0 (9):\penalty0 2400811,
+  2025.
+\newblock \doi{10.1002/aelm.202400811}.
+
+\bibitem[Ueno et~al.(2008)Ueno, Nakamura, Shimotani, Ohtomo, Kimura, Nojima,
+  Aoki, Iwasa, and Kawasaki]{Ueno2008}
+K.~Ueno, S.~Nakamura, H.~Shimotani, A.~Ohtomo, N.~Kimura, T.~Nojima, H.~Aoki,
+  Y.~Iwasa, and M.~Kawasaki.
+\newblock Electric-field-induced superconductivity in an insulator.
+\newblock \emph{Nat. Mater.}, 7:\penalty0 855, 2008.
+
+\bibitem[Ortmann et~al.(2018)Ortmann, Nookala, He, Gao, Lin, Posadas,
+  Borisevich, Belkin, and Demkov]{Ortmann2018}
+J.~E. Ortmann, N.~Nookala, Q.~He, L.~Gao, C.~Lin, A.~B. Posadas, A.~Y.
+  Borisevich, M.~A. Belkin, and A.~A. Demkov.
+\newblock Quantum confinement in oxide heterostructures: room-temperature
+  intersubband absorption in {SrTiO$_3$/LaAlO$_3$} multiple quantum wells.
+\newblock \emph{ACS Nano}, 12\penalty0 (8):\penalty0 7682--7689, 2018.
+\newblock \doi{10.1021/acsnano.8b01293}.
+
+\bibitem[Li et~al.(2021)Li, Hamze, and Demkov]{Li2021BSO}
+W.~Li, A.~K. Hamze, and A.~A. Demkov.
+\newblock Tunable giant nonlinear optical susceptibility in {BaSnO$_3$} quantum
+  wells.
+\newblock \emph{Phys. Rev. B}, 104:\penalty0 235419, 2021.
+\newblock \doi{10.1103/PhysRevB.104.235419}.
+
+\bibitem[Stanojevi{\'c} et~al.(2023)Stanojevi{\'c}, Vukovi{\'c}, and
+  Radovanovi{\'c}]{Stanojevic2023}
+N.~Stanojevi{\'c}, N.~Vukovi{\'c}, and J.~Radovanovi{\'c}.
+\newblock Calculation of intersubband absorption in n-doped {BaSnO$_3$} quantum
+  wells.
+\newblock \emph{Opt. Quantum Electron.}, 55\penalty0 (4):\penalty0 383, 2023.
+\newblock \doi{10.1007/s11082-023-04656-5}.
+
+\bibitem[Jang(2023)]{Jang2023}
+S.~Jang.
+\newblock Near infrared to visible intersubband transitions in all-oxide
+  quantum wells using {BaSnO$_3$}.
+\newblock Master's thesis, University of Texas at Austin, 2023.
+
+\bibitem[Lyman and Krishnamoorthy(2020)]{Lyman2020}
+J.~E. Lyman and S.~Krishnamoorthy.
+\newblock Theoretical investigation of optical intersubband transitions and
+  infrared photodetection in {$\beta$-(Al$_x$Ga$_{1-x}$)$_2$O$_3$/Ga$_2$O$_3$}
+  quantum well structures.
+\newblock \emph{J. Appl. Phys.}, 127:\penalty0 173102, 2020.
+\newblock \doi{10.1063/5.0001917}.
+
+\bibitem[Ownby(2026)]{qwkit}
+G.~Ownby.
+\newblock qwkit: self-consistent intersubband optics of quantum wells, 2026.
+\newblock version 0.6, University of Oklahoma.
+
+\bibitem[Krishnaswamy et~al.(2017)Krishnaswamy, Himmetoglu, Kang, Janotti, and
+  Van~de Walle]{Krishnaswamy2017}
+K.~Krishnaswamy, B.~Himmetoglu, Y.~Kang, A.~Janotti, and C.~G. Van~de Walle.
+\newblock First-principles analysis of electron transport in {BaSnO$_3$}.
+\newblock \emph{Phys. Rev. B}, 95:\penalty0 205202, 2017.
+\newblock \doi{10.1103/PhysRevB.95.205202}.
+
+\bibitem[Stanislavchuk et~al.(2012)Stanislavchuk, Sirenko, Litvinchuk, Luo, and
+  Cheong]{Stanislavchuk2012}
+T.~N. Stanislavchuk, A.~A. Sirenko, A.~P. Litvinchuk, X.~Luo, and S.-W. Cheong.
+\newblock Electronic band structure and optical phonons of {BaSnO$_3$} and
+  {Ba$_{0.97}$La$_{0.03}$SnO$_3$} single crystals: Theory and experiment.
+\newblock \emph{J. Appl. Phys.}, 112:\penalty0 044108, 2012.
+\newblock \doi{10.1063/1.4748309}.
+
+\bibitem[Jang et~al.(2017)Jang, Lee, Sohn, Kim, Seo, Park, Choi, and
+  Kim]{Jang2017LIO}
+D.~H. Jang, W.-J. Lee, E.~Sohn, H.~J. Kim, D.~Seo, J.-Y. Park, E.~J. Choi, and
+  K.~H. Kim.
+\newblock Single crystal growth and optical properties of a transparent
+  perovskite oxide {LaInO$_3$}.
+\newblock \emph{J. Appl. Phys.}, 121:\penalty0 125109, 2017.
+\newblock \doi{10.1063/1.4977863}.
+
+\bibitem[Galazka et~al.(2021)Galazka, Irmscher, Ganschow, Zupancic, Aggoune,
+  Draxl, Albrecht, Klimm, Kwasniewski, Schulz, et~al.]{Galazka2021}
+Z.~Galazka, K.~Irmscher, S.~Ganschow, M.~Zupancic, W.~Aggoune, C.~Draxl,
+  M.~Albrecht, D.~Klimm, A.~Kwasniewski, T.~Schulz, et~al.
+\newblock Melt growth and physical properties of bulk {LaInO$_3$} single
+  crystals.
+\newblock \emph{Phys. Status Solidi A}, 218\penalty0 (16):\penalty0 2100016,
+  2021.
+\newblock \doi{10.1002/pssa.202100016}.
+
+\bibitem[Nelson et~al.(1987)Nelson, Miller, and Kleinman]{Nelson1987}
+D.~F. Nelson, R.~C. Miller, and D.~A. Kleinman.
+\newblock Band nonparabolicity effects in semiconductor quantum wells.
+\newblock \emph{Phys. Rev. B}, 35:\penalty0 7770, 1987.
+\newblock \doi{10.1103/PhysRevB.35.7770}.
+
+\bibitem[Ekenberg(1989)]{Ekenberg1989}
+U.~Ekenberg.
+\newblock Nonparabolicity effects in a quantum well: Sublevel shift, parallel
+  mass, and {Landau} levels.
+\newblock \emph{Phys. Rev. B}, 40:\penalty0 7714, 1989.
+\newblock \doi{10.1103/PhysRevB.40.7714}.
+
+\bibitem[Hedin and Lundqvist(1971)]{HedinLundqvist1971}
+L.~Hedin and B.~I. Lundqvist.
+\newblock Explicit local exchange-correlation potentials.
+\newblock \emph{J. Phys. C}, 4:\penalty0 2064, 1971.
+\newblock \doi{10.1088/0022-3719/4/14/022}.
+
+\bibitem[Allen et~al.(1976)Allen, Tsui, and Vinter]{AllenTsuiVinter1976}
+S.~J. Allen, D.~C. Tsui, and B.~Vinter.
+\newblock On the absorption of infrared radiation by electrons in semiconductor
+  inversion layers.
+\newblock \emph{Solid State Commun.}, 20:\penalty0 425, 1976.
+
+\bibitem[Ando(1977)]{Ando1977}
+T.~Ando.
+\newblock Inter-subband optical absorption in space-charge layers on
+  semiconductor surfaces.
+\newblock \emph{Z. Phys. B}, 26:\penalty0 263, 1977.
+\newblock \doi{10.1007/BF01312933}.
+
+\bibitem[Ando et~al.(1982)Ando, Fowler, and Stern]{AndoRMP1982}
+T.~Ando, A.~B. Fowler, and F.~Stern.
+\newblock Electronic properties of two-dimensional systems.
+\newblock \emph{Rev. Mod. Phys.}, 54:\penalty0 437, 1982.
+\newblock \doi{10.1103/RevModPhys.54.437}.
+
+\bibitem[L{\"o}wdin(1950)]{Lowdin1950}
+P.-O. L{\"o}wdin.
+\newblock On the non-orthogonality problem connected with the use of atomic
+  wave functions in the theory of molecules and crystals.
+\newblock \emph{J. Chem. Phys.}, 18:\penalty0 365, 1950.
+\newblock \doi{10.1063/1.1747632}.
+
+\bibitem[Varga(1965)]{Varga1965}
+B.~B. Varga.
+\newblock Coupling of plasmons to polar phonons in degenerate semiconductors.
+\newblock \emph{Phys. Rev.}, 137:\penalty0 A1896, 1965.
+
+\bibitem[Niedermeier et~al.(2016)Niedermeier, Kamiya, and
+  Moram]{NiedermeierPolaronArxiv}
+C.~A. Niedermeier, T.~Kamiya, and M.~A. Moram.
+\newblock Polaron coupling constants in {BaSnO$_3$}.
+\newblock arXiv:1612.01343, 2016.
+
+\bibitem[Ridley(1982)]{Ridley1982}
+B.~K. Ridley.
+\newblock The electron-phonon interaction in quasi-two-dimensional
+  semiconductor quantum-well structures.
+\newblock \emph{J. Phys. C}, 15:\penalty0 5899, 1982.
+\newblock \doi{10.1088/0022-3719/15/28/021}.
+
+\bibitem[Sirtori et~al.(1994)Sirtori, Capasso, Faist, and
+  Scandolo]{Sirtori1994}
+C.~Sirtori, F.~Capasso, J.~Faist, and S.~Scandolo.
+\newblock Nonparabolicity and a sum rule associated with bound-to-bound and
+  bound-to-continuum intersubband transitions in quantum wells.
+\newblock \emph{Phys. Rev. B}, 50:\penalty0 8663, 1994.
+
+\bibitem[Delteil et~al.(2012)Delteil, Vasanelli, Todorov, Feuillet~Palma,
+  Renaudat St-Jean, Beaudoin, Sagnes, and Sirtori]{Delteil2012}
+A.~Delteil, A.~Vasanelli, Y.~Todorov, C.~Feuillet~Palma, M.~Renaudat St-Jean,
+  G.~Beaudoin, I.~Sagnes, and C.~Sirtori.
+\newblock Charge-induced coherence between intersubband plasmons in a quantum
+  structure.
+\newblock \emph{Phys. Rev. Lett.}, 109:\penalty0 246808, 2012.
+\newblock \doi{10.1103/PhysRevLett.109.246808}.
+
+\bibitem[Vasanelli et~al.(2020)Vasanelli, Huppert, Haky, Laurent, Todorov, and
+  Sirtori]{Vasanelli2020}
+A.~Vasanelli, S.~Huppert, A.~Haky, T.~Laurent, Y.~Todorov, and C.~Sirtori.
+\newblock Semiconductor quantum plasmonics.
+\newblock \emph{Phys. Rev. Lett.}, 125:\penalty0 187401, 2020.
+\newblock \doi{10.1103/PhysRevLett.125.187401}.
+
+\bibitem[Ngabonziza and {Nono Tchiomo}(2024)]{Ngabonziza2024}
+P.~Ngabonziza and A.~P. {Nono Tchiomo}.
+\newblock Epitaxial films and devices of transparent conducting oxides:
+  {La:BaSnO$_3$}.
+\newblock \emph{APL Mater.}, 12:\penalty0 120601, 2024.
+\newblock \doi{10.1063/5.0235517}.
+
+\bibitem[Rosencher and Bois(1991)]{RosencherBois1991}
+E.~Rosencher and Ph. Bois.
+\newblock Model system for optical nonlinearities: Asymmetric quantum wells.
+\newblock \emph{Phys. Rev. B}, 44:\penalty0 11315, 1991.
+
+\bibitem[Vurgaftman et~al.(1996)Vurgaftman, Meyer, and
+  Ram-Mohan]{Vurgaftman1996SSC}
+I.~Vurgaftman, J.~R. Meyer, and L.~R. Ram-Mohan.
+\newblock Detuned intersubband resonances for broadband field-modulated
+  second-harmonic generation in a waveguide.
+\newblock \emph{Solid State Commun.}, 100\penalty0 (9):\penalty0 663--667,
+  1996.
+\newblock \doi{10.1016/0038-1098(96)00493-0}.
+
+\end{thebibliography}

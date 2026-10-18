@@ -1,0 +1,4 @@
+NA 5e+19 ns 3e+13: two-band overlap 1.6e-03 | median bare 0.4509 -> 0.4507 | collective 0.5850 -> 0.5758 (-1.58%)
+NA 5e+19 ns 1e+14: two-band overlap 1.6e-03 | median bare 0.5319 -> 0.5317 | collective 0.9022 -> 0.8669 (-3.91%)
+NA 1e+18 ns 3e+13: two-band overlap 1.1e-03 | median bare 0.2177 -> 0.2174 | collective 0.4485 -> 0.4420 (-1.45%)
+NA 1e+18 ns 1e+14: two-band overlap 1.2e-03 | median bare 0.3964 -> 0.3963 | collective 0.7723 -> 0.7521 (-2.61%)

@@ -1,0 +1,6 @@
+ns 3e+13: 60 subbands up to 1.67 eV | f in window 0.7769 | f(>2 eV) 0.0000 | 1->n centroid 0.3114 eV
+ns 3e+13: 90 subbands up to 2.22 eV | f in window 0.7787 | f(>2 eV) 0.0008 | 1->n centroid 0.3160 eV
+ns 3e+13: 129 subbands up to 2.99 eV | f in window 0.7784 | f(>2 eV) 0.0018 | 1->n centroid 0.3169 eV
+ns 1e+14: 60 subbands up to 1.96 eV | f in window 0.6700 | f(>2 eV) 0.0000 | 1->n centroid 0.5080 eV
+ns 1e+14: 90 subbands up to 2.50 eV | f in window 0.6710 | f(>2 eV) 0.0019 | 1->n centroid 0.5128 eV
+ns 1e+14: 115 subbands up to 3.00 eV | f in window 0.6710 | f(>2 eV) 0.0028 | 1->n centroid 0.5129 eV

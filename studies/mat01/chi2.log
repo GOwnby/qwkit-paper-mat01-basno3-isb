@@ -1,0 +1,13 @@
+reference ADQW 70/12/32 A (per period): {'E21': 0.10988644742029023, 'E31': 0.21672597337807392, 'period_A': 214.0, 'layers': '70/12/32 A', 'g10': {'peak_sheet_nm2V': 3492.774552997769, 'hw': 0.11000000000000007, 'bulk_pmV': 163213.76415877423}, 'g30': {'peak_sheet_nm2V': 555.1909081789923, 'hw': 0.058500000000000024, 'bulk_pmV': 25943.5003821959}}
+NA 5e+19 ns 1e+13: E21 0.421 E31 0.706 | g10 bare 181 at 0.208 rpa 392 at 0.464 | g30 bare 65 rpa 37 at 0.236 | rpa/ref g10 0.11 g30 0.07
+NA 5e+19 ns 2e+13: E21 0.441 E31 0.736 | g10 bare 298 at 0.217 rpa 140 at 0.265 | g30 bare 114 rpa 47 at 0.265 | rpa/ref g10 0.04 g30 0.08
+NA 5e+19 ns 3e+13: E21 0.459 E31 0.762 | g10 bare 375 at 0.224 rpa 334 at 0.578 | g30 bare 152 rpa 50 at 0.289 | rpa/ref g10 0.10 g30 0.09
+NA 5e+19 ns 5e+13: E21 0.491 E31 0.805 | g10 bare 462 at 0.237 rpa 172 at 0.325 | g30 bare 205 rpa 51 at 0.327 | rpa/ref g10 0.05 g30 0.09
+NA 5e+19 ns 7e+13: E21 0.521 E31 0.834 | g10 bare 468 at 0.250 rpa 216 at 0.346 | g30 bare 213 rpa 52 at 0.348 | rpa/ref g10 0.06 g30 0.09
+NA 5e+19 ns 1e+14: E21 0.566 E31 0.779 | g10 bare 465 at 0.173 rpa 943 at 0.380 | g30 bare 183 rpa 90 at 0.380 | rpa/ref g10 0.27 g30 0.16
+NA 1e+18 ns 1e+13: E21 0.149 E31 0.249 | g10 bare 2226 at 0.122 rpa 556 at 0.206 | g30 bare 660 rpa 105 at 0.123 | rpa/ref g10 0.16 g30 0.19
+NA 1e+18 ns 2e+13: E21 0.180 E31 0.288 | g10 bare 2051 at 0.141 rpa 792 at 0.138 | g30 bare 754 rpa 120 at 0.144 | rpa/ref g10 0.23 g30 0.22
+NA 1e+18 ns 3e+13: E21 0.213 E31 0.329 | g10 bare 3178 at 0.105 rpa 2612 at 0.153 | g30 bare 748 rpa 137 at 0.165 | rpa/ref g10 0.75 g30 0.25
+NA 1e+18 ns 5e+13: E21 0.273 E31 0.405 | g10 bare 5031 at 0.113 rpa 2060 at 0.196 | g30 bare 798 rpa 124 at 0.199 | rpa/ref g10 0.59 g30 0.22
+NA 1e+18 ns 7e+13: E21 0.328 E31 0.475 | g10 bare 5015 at 0.123 rpa 3987 at 0.224 | g30 bare 1048 rpa 139 at 0.226 | rpa/ref g10 1.14 g30 0.25
+NA 1e+18 ns 1e+14: E21 0.400 E31 0.572 | g10 bare 4166 at 0.138 rpa 1607 at 0.138 | g30 bare 1076 rpa 125 at 0.143 | rpa/ref g10 0.46 g30 0.23

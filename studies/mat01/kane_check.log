@@ -1,0 +1,6 @@
+NA 5e+19 ns 1e+13: n 54 two-band overlap 1.7e-03 valence weight [0.066 0.114] | z12 Loewdin 5.256 Kane 5.261 | z13 -1.238 -1.224 | f-sum ratio 0.9949 | 1->n centroid 0.5014 0.4969
+NA 5e+19 ns 3e+13: n 51 two-band overlap 1.6e-03 valence weight [0.072 0.118] | z12 Loewdin 4.961 Kane 4.968 | z13 -1.206 -1.191 | f-sum ratio 0.9963 | 1->n centroid 0.5400 0.5357
+NA 5e+19 ns 1e+14: n 46 two-band overlap 1.6e-03 valence weight [0.087 0.124] | z12 Loewdin 4.368 Kane 4.396 | z13 -0.173 -0.170 | f-sum ratio 1.0082 | 1->n centroid 0.6349 0.6316
+NA 1e+18 ns 1e+13: n 90 two-band overlap 1.1e-03 valence weight [0.03  0.045] | z12 Loewdin 8.993 Kane 8.971 | z13 -2.964 -2.948 | f-sum ratio 0.9892 | 1->n centroid 0.2230 0.2196
+NA 1e+18 ns 3e+13: n 90 two-band overlap 1.1e-03 valence weight [0.041 0.053] | z12 Loewdin 6.993 Kane 6.963 | z13 -2.573 -2.555 | f-sum ratio 0.9851 | 1->n centroid 0.3160 0.3123
+NA 1e+18 ns 1e+14: n 90 two-band overlap 1.2e-03 valence weight [0.067 0.078] | z12 Loewdin 4.871 Kane 4.850 | z13 -1.655 -1.650 | f-sum ratio 0.9895 | 1->n centroid 0.5129 0.5108

@@ -1,0 +1,8 @@
+ns 3e+13 mean_bare : median 0.3877 [0.3025, 0.5336]  top: NA +0.96, beta -0.24, eps_inf -0.20
+ns 3e+13 mean_coll : median 0.577 [0.4832, 0.7181]  top: NA +0.94, eps_inf -0.33, beta -0.22
+ns 3e+13 factor    : median 1.481 [1.346, 1.606]  top: NA -0.94, beta +0.26, E_pin -0.14
+ns 3e+13 top_share : median 0.3384 [0.166, 0.596]  top: NA +0.93, E_pin +0.26, beta -0.09
+ns 1e+14 mean_bare : median 0.4829 [0.4279, 0.5755]  top: NA +0.86, beta -0.35, cbo +0.22
+ns 1e+14 mean_coll : median 0.8403 [0.7671, 0.968]  top: NA +0.82, eps_inf -0.48, beta -0.25
+ns 1e+14 factor    : median 1.765 [1.648, 1.865]  top: NA -0.65, eps_inf -0.42, beta +0.41
+ns 1e+14 top_share : median 0.1469 [0.07677, 0.2662]  top: NA +0.78, E_pin +0.37, m -0.11

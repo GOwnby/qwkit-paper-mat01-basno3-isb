@@ -1,0 +1,15 @@
+Froehlich weights [0.0101 0.1079 0.0832] alpha per mode (m 0.19) [0.118 0.759 0.447] sum 1.32
+NA 5e+19 ns 5e+12: E21 0.410 EF-E1 0.046 | edge (old) 40 fs | k-avg unblocked 33 | Pauli 33 | Pauli+screened 34 fs | S(Q_emit) 0.9660263314655538
+NA 5e+19 ns 1e+13: E21 0.421 EF-E1 0.097 | edge (old) 41 fs | k-avg unblocked 34 | Pauli 34 | Pauli+screened 35 fs | S(Q_emit) 0.9382096373974722
+NA 5e+19 ns 2e+13: E21 0.441 EF-E1 0.187 | edge (old) 42 fs | k-avg unblocked 35 | Pauli 35 | Pauli+screened 37 fs | S(Q_emit) 0.9364013872185134
+NA 5e+19 ns 3e+13: E21 0.459 EF-E1 0.268 | edge (old) 43 fs | k-avg unblocked 36 | Pauli 36 | Pauli+screened 38 fs | S(Q_emit) 0.9344706890085458
+NA 5e+19 ns 5e+13: E21 0.491 EF-E1 0.413 | edge (old) 45 fs | k-avg unblocked 38 | Pauli 40 | Pauli+screened 42 fs | S(Q_emit) 0.93428476692926
+NA 5e+19 ns 7e+13: E21 0.521 EF-E1 0.526 | edge (old) 47 fs | k-avg unblocked 39 | Pauli 45 | Pauli+screened 49 fs | S(Q_emit) 0.9213455930867852
+NA 5e+19 ns 1e+14: E21 0.566 EF-E1 0.651 | edge (old) 50 fs | k-avg unblocked 41 | Pauli 47 | Pauli+screened 53 fs | S(Q_emit) 0.8938310620273127
+NA 1e+18 ns 5e+12: E21 0.134 EF-E1 0.052 | edge (old) 20 fs | k-avg unblocked 22 | Pauli 28 | Pauli+screened 32 fs | S(Q_emit) 0.8997942215358476
+NA 1e+18 ns 1e+13: E21 0.149 EF-E1 0.104 | edge (old) 23 fs | k-avg unblocked 26 | Pauli 38 | Pauli+screened 48 fs | S(Q_emit) 0.8597613784929459
+NA 1e+18 ns 2e+13: E21 0.180 EF-E1 0.186 | edge (old) 30 fs | k-avg unblocked 33 | Pauli 53 | Pauli+screened 70 fs | S(Q_emit) 0.7697212373162472
+NA 1e+18 ns 3e+13: E21 0.213 EF-E1 0.252 | edge (old) 35 fs | k-avg unblocked 38 | Pauli 58 | Pauli+screened 77 fs | S(Q_emit) 0.7161924452619186
+NA 1e+18 ns 5e+13: E21 0.273 EF-E1 0.366 | edge (old) 43 fs | k-avg unblocked 45 | Pauli 60 | Pauli+screened 79 fs | S(Q_emit) 0.7433284711496033
+NA 1e+18 ns 7e+13: E21 0.328 EF-E1 0.465 | edge (old) 48 fs | k-avg unblocked 48 | Pauli 61 | Pauli+screened 78 fs | S(Q_emit) 0.764130976180222
+NA 1e+18 ns 1e+14: E21 0.400 EF-E1 0.594 | edge (old) 53 fs | k-avg unblocked 50 | Pauli 60 | Pauli+screened 74 fs | S(Q_emit) 0.7890072635920065
