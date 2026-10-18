@@ -1,4 +1,4 @@
-﻿{
+{
     "description":  "Self-contained repository containing the full reviewed manuscript (MAT01_paper.pdf), LaTeX source, qwkit v0.7.0 simulation engine, automated mathematical verification test suite (69 tests), and reproduction scripts/JSON datasets for: Intersubband optics of the polar LaInO3/BaSnO3 two-dimensional electron gas: fragmented hybrid plasmons, phonon-limited lifetimes, intrinsic second-order nonlinearity and the limits of electrolyte gating",
     "upload_type":  "software",
     "creators":  [
