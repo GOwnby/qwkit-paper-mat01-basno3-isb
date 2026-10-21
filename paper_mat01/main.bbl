@@ -93,9 +93,11 @@ J.~E. Lyman and S.~Krishnamoorthy.
 \newblock \doi{10.1063/5.0001917}.
 
 \bibitem[Ownby(2026)]{qwkit}
-G.~Ownby.
-\newblock qwkit: self-consistent intersubband optics of quantum wells, 2026.
-\newblock version 0.6, University of Oklahoma.
+Gracen Ownby.
+\newblock {qwkit: self-consistent intersubband optics of quantum wells
+  (v0.7.0)}.
+\newblock Zenodo, October 2026.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444120}.
 
 \bibitem[Krishnaswamy et~al.(2017)Krishnaswamy, Himmetoglu, Kang, Janotti, and
   Van~de Walle]{Krishnaswamy2017}

@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444580.svg)](https://doi.org/10.5281/zenodo.23444580)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444579.svg)](https://doi.org/10.5281/zenodo.23444579)
 
 # Intersubband optics of the polar LaInO3/BaSnO3 two-dimensional electron gas: fragmented hybrid plasmons, phonon-limited lifetimes, intrinsic second-order nonlinearity and the limits of electrolyte gating
 
